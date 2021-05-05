@@ -1,0 +1,5 @@
+# 忽略jq提示文件
+/assets/js/*.json
+/assets/js/jquery:
+/assets/js/jquerymobile:
+/assets/js/jqueryui:
